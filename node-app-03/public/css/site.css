@@ -1,0 +1,36 @@
+
+body {
+    background-color: #f6f6f6;
+}
+
+* {
+    font-family: Verdana !important;
+}
+
+hr {
+    border-top: 1px solid #3a3939 !important;
+}
+
+h2 {
+    font-size: 24px !important;
+}
+
+div.container {
+    font-size: 11px !important;
+}
+
+nav.navbar-default {
+    background-color: #244369;
+    border-color: #244369;
+}
+
+.navbar-default, .navbar-brand, .navbar-default, .navbar-nav > li > a {
+    color: white !important;
+}
+
+.navbar-nav > .active > a, 
+.navbar-nav > .active > a:focus, 
+.navbar-nav > .active > a:hover {
+    color: rgb(29, 28, 28) !important;
+    font-weight: bold !important;
+}
